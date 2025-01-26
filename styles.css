@@ -3,6 +3,9 @@ body {
   padding: none;
   margin: 0;
   box-sizing: border-box;
+  font-family: "Kanit", serif;
+  font-weight: 700;
+  font-style: normal;
 }
 
 body {
@@ -21,6 +24,7 @@ body {
   height: 50%;
   background: rgb(39, 154, 212);
   box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, 0.2);
+  border-radius: 10px;
 }
 
 .img-container {
@@ -47,5 +51,5 @@ img {
   justify-content: space-evenly;
   overflow-wrap: break-word;
   margin: 1rem;
-  color: aliceblue;
+  color: rgb(9, 63, 84);
 }
